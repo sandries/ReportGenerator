@@ -1,0 +1,13 @@
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\bin\Debug\HotelRatesExcelGenerator.Test.dll
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\bin\Debug\HotelRatesExcelGenerator.Test.pdb
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\bin\Debug\HotelRatesExcelGenerator.dll
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\bin\Debug\HotelRatesExcelGenerator.pdb
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\obj\Debug\HotelRatesExcelGenerator.Test.csprojResolveAssemblyReference.cache
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\obj\Debug\HotelRatesExcelGenerator.Test.dll
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\obj\Debug\HotelRatesExcelGenerator.Test.pdb
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\bin\Debug\hotelrates.json
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\bin\Debug\Newtonsoft.Json.dll
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\bin\Debug\Newtonsoft.Json.xml
+D:\hq PLUS\task 2\HotelRatesExcelGenerator\HotelRatesExcelGenerator.Test\bin\Debug\DocumentFormat.OpenXml.dll
